@@ -4,7 +4,7 @@
 
 
 ## Communications
-[Airfield VFR Comms](communications/airfield-vfr-comms.md)
+[Airfield VFR Comms](airmanship/airfield-vfr-comms.md)
 
 ## Air to Air
 

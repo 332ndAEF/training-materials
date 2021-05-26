@@ -26,8 +26,6 @@ Enfield 3: *"3"*
 <br>
 Enfield 4: *"4"*
 <br>
-Enfield 1: *"Loud clear"*
-<br>
 Enfield 1 (on ground): *"Incirlik Ground, Enfield flight as fragged for start (on Alpha)"*
 
 "As fragged" is the number of jets in the formation as published in the details your squadron or command has given to ATC; the phrase is used so that the enemy doesn't know how many of you there are. If you're missing a jet on start because it's unserviceable and you have to fly as a 3-ship, then it's "as fragged minus 1".

@@ -210,7 +210,7 @@ Dragon 11: *"Dragon 11, left when able, cross 23 Left, wilco"*
 
 Contacting Ground is pretty straightforward. Remember, WHO, WHAT, WHERE:
 
-Dragon 11: *"Incirlik Ground, Dragon 11, clear of the active, taxi to my line"*
+Dragon 11: *"Incirlik Ground, Dragon 11, clear of the active (at Bravo 1), taxi to my line"*
 <br>
 ATC: *"Dragon 11, Incirlik Ground, taxi to your line via Charlie, Golf, Alpha"*
 <br>

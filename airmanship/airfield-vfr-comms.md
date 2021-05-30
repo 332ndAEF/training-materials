@@ -192,7 +192,7 @@ ATC: *"Dragon 11, runway 23, cleared to land"*
 <br>
 Dragon 11: *"Cleared to land 23, Dragon 11"*
 
-If you're unable to contact the tower at the assigned point dur to other radio calls, continue your approach, but amend your call by using your current position. Always remember to read back the tower's clearance!
+If you're unable to contact the tower at the assigned point due to other radio calls, continue your approach, but amend your call by using your current position. Always remember to read back the tower's clearance!
 
 Dragon 11: *"Dragon 11, 90, gear down"*
 <br>

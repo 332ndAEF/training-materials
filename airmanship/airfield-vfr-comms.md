@@ -168,7 +168,7 @@ Dragon 11: *"Dragon 11, unable"*
 
 In the above examples, ATC directs you to "report initials". Initials means "initials for the break", though in the real world, this usage depends on several factors. For DCS purposes, we will consider "initials" to be a standard point 5nm from the field, between 1000 - 2000ft, offset laterally 1/4nm from the dead side of the active runway. Remember, you can always request what you want from ATC; you could request a straight in approach from 10 miles out if you really wanted to avoid this landing pattern stuff, but do note that the landing pattern exists because it's the most efficient way to handle a large amount of traffic.
 
-Keeping with the above example, then, once you've reach the "initial" area:
+Keeping with the above example, then, once you've reached the "initial" area:
 
 Dragon 11: *"Incirlik Tower, Dragon 11, initials, full stop*
 <br>

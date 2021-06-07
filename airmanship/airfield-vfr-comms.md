@@ -150,15 +150,15 @@ When approaching an airfield, **before reaching 10nm from the field**:
 
 Dragon 11 (on approach): *"Incirlik Approach, Dragon 11 inbound, 12 miles South-East, 8500 with Kilo"*
 <br>
-ATC: *"Dragon 11, own navigation, report initials to Tower"*
+ATC: *"Dragon 11, own navigation, report initial to Tower"*
 <br>
-Dragon 11: *"Initials to Tower, Dragon 11"*
+Dragon 11: *"Initial to Tower, Dragon 11"*
 
 If there is no Approach, you'll make the same call to Tower, instead.
 
 Dragon 11: *"Incirlik Tower, Dragon 11, 12 miles South-East, 8500 with Kilo, full stop"*
 <br>
-ATC: *"Dragon 11, own navigation, report initials"*
+ATC: *"Dragon 11, own navigation, report initial"*
 <br>
 Dragon 11: *"Dragon 11, wilco"*
 
@@ -166,11 +166,11 @@ What ATC replies with will depend on several factors; just do what they ask and 
 
 Dragon 11: *"Dragon 11, unable"*
 
-In the above examples, ATC directs you to "report initials". Initials means "initials for the break", though in the real world, this usage depends on several factors. For DCS purposes, we will consider "initials" to be a standard point 5nm from the field, between 1000 - 2000ft AGL, aligned with the runway, and on runway heading +-3 degrees. Remember, you can always request what you want from ATC; you could request a straight in approach from 10 miles out if you really wanted to avoid this landing pattern stuff, but do note that the landing pattern exists because it's the most efficient way to handle a large amount of traffic.
+In the above examples, ATC directs you to "report initial". Initial means "initial for the break", though in the real world, this usage depends on several factors. For DCS purposes, we will consider "initial" to be a standard point 3-5nm from the field, between 1000 - 2000ft AGL, aligned with the runway, and on runway heading +-3 degrees. Remember, you can always request what you want from ATC; you could request a straight in approach from 10 miles out if you really wanted to avoid this landing pattern stuff, but do note that the landing pattern exists because it's the most efficient way to handle a large amount of traffic.
 
 Keeping with the above example, then, once you've reached the "initial" area:
 
-Dragon 11: *"Incirlik Tower, Dragon 11, initials, full stop*
+Dragon 11: *"Incirlik Tower, Dragon 11, initial, full stop*
 <br>
 ATC: *"Dragon 11, Incirlik Tower, report the numbers runway 23"*
 <br>
@@ -267,24 +267,24 @@ About 5 miles out for a standard traffic pattern or straight in approach, update
 
 Dragon 11: "Incirlik Traffic, Dragon 11, 5 South-East at 1500, will enter a left break for 23, Incirlik"*
 
-When you're entering the airfield landing pattern, or have reached initials for your break:
+When you're entering the airfield landing pattern, or have reached initial for your break:
 
-Dragon 11: "Incirlik Traffic, Dragon 11, initials for 23, Incirlik"*
+Dragon 11: "Incirlik Traffic, Dragon 11, initial for 23, Incirlik"*
 
 Remember, you're in charge of your airplane. You can make a straight in approach from 10 miles out if you want to, the most important thing is to clearly communicate your intentions and to avoid other air traffic.
 
 #### A word about overhead breaks at non-towered airfields:
 
-If you're approaching the airfield from the downwind initials (meaning the closest end of the runway to you is the active runway), make your break call at the upwind end of the runway, then one more call when you're 45 degrees past the touchdown point to turn final.
+If you're approaching the airfield from initial (meaning the closest end of the runway to you is the active runway), make your break call at the upwind end of the runway, then one more call when you're 45 degrees past the touchdown point to turn final.
 
 Dragon 11: *"Incirlik Traffic, Dragon 11, left break, full stop, Incirlik"*
 <br>
 Dragon 11: *"Incirlik Traffic, Dragon 11, final, gear down, Incirlik"*
 
-If you're approaching the airport from the upwind side (opposite side of the active runway), proceed instead directly into the downwind leg from initials, with the same call at 45 degrees past the touchdown point.
+If you're approaching the airport from the upwind side (opposite side of the active runway), proceed instead directly into the downwind leg, with the same call at 45 degrees past the touchdown point.
 
 Dragon 11: *"Incirlik Traffic, Dragon 11, downwind, full stop, Incirlik"*
 <br>
 Dragon 11: *"Incirlik Traffic, Dragon 11, final, gear down, Incirlik"*
 
-Remember, initials is a point 5nm from the field, in line with the extended runway centerline, between 1000 and 2000ft AGL, and on runway heading +-3 degrees.
+Remember, initial is a point 3-5nm from the field, in line with the extended runway centerline, between 1000 and 2000ft AGL, and on runway heading +-3 degrees.

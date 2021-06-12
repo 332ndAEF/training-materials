@@ -16,9 +16,9 @@ ATC: *"Dragon 11, cleared start"*
 
 How about a formation?
 
-When in a formation, the flight should always check in on engine start and on any frequency change.
+When in a formation, the flight should always check in on engine start and on ANY frequency change - this includes on ground, CTAF, etc.
 
-Enfield 1 (on intra-flight): *"Enfield check"* or often, just *"Enfield"*
+Enfield 1 (on ground): *"Enfield check"* or often, just *"Enfield"*
 <br>
 Enfield 2: *"2"*
 <br>
@@ -26,7 +26,7 @@ Enfield 3: *"3"*
 <br>
 Enfield 4: *"4"*
 <br>
-Enfield 1 (on ground): *"Incirlik Ground, Enfield flight as fragged for start (on Alpha)"*
+Enfield 1 (still on ground): *"Incirlik Ground, Enfield flight as fragged for start (on Alpha)"*
 
 "As fragged" is the number of jets in the formation as published in the details your squadron or command has given to ATC; the phrase is used so that the enemy doesn't know how many of you there are. If you're missing a jet on start because it's unserviceable and you have to fly as a 3-ship, then it's "as fragged minus 1".
 

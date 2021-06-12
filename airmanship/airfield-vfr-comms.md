@@ -16,7 +16,7 @@ ATC: *"Dragon 11, cleared start"*
 
 How about a formation?
 
-When in a formation, the flight should always check in on engine start and on ANY frequency change - this includes on ground, CTAF, etc.
+When in a formation, the flight should always check in on engine start and on ANY frequency change - this includes on ground, CTAF, etc. Note that all flight admin should be done on the assigned intra-flight frequency whenever possible, so as to keep common frequencies clear of chatter.
 
 Enfield 1 (on ground): *"Enfield check"* or often, just *"Enfield"*
 <br>
